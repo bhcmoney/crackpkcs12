@@ -1,0 +1,4 @@
+-- Run the following before running MAKE --
+
+gcc -DPACKAGE_NAME=\"\" -DPACKAGE_TARNAME=\"\" -DPACKAGE_VERSION=\"\" -DPACKAGE_STRING=\"\" -DPACKAGE_BUGREPORT=\"\" -DPACKAGE_URL=\"\" -I. -g -O2 -MT crackpkcs12.o -MD -MP -MF .deps/crackpkcs12.Tpo -c -o crackpkcs12.o crackpkcs12.c
+ 
